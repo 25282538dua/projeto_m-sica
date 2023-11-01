@@ -1,0 +1,43 @@
+body{
+background-color: red;
+
+}
+
+img{
+border-radius: 50%;
+height: 230px;
+
+}
+
+
+
+header{
+
+background-color: red;
+}
+
+
+
+footer{
+    height: 110px;
+    background-color: black;
+    display: grid;
+
+    
+
+}
+
+.table{
+
+border-color: red;
+
+
+}
+
+.carrosel3{
+
+    display: flex;
+    align-items: center;
+    justify-content: center;
+
+}
